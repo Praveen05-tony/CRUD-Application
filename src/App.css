@@ -1,0 +1,11 @@
+.action-btn{
+    display: flex;
+    column-gap: 20px;
+    justify-content: center;
+}
+
+.action-btn button{
+    padding: 8px 15px;
+    border: none;
+    border-radius: 10px;
+}
